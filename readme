@@ -1,1 +1,9 @@
 全屏打开浏览器（chrome或者msedge）, 并打开指定网址。
+
+config.ini文件设置
+
+chrome
+www.baidu.com
+第一行 是 chrome 或者 msedge
+第二行 是 设置url
+
