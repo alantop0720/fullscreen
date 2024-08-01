@@ -13,7 +13,7 @@
 
 /*
 int main() {
-    std::string command = "mychrome.exe --Kiosk --new-window http://10.20.50.91/wrcs_msg/news-release-code?code=030";
+    std::string command = "mychrome.exe --Kiosk --new-window http://baidu.com";
     int result = std::system(command.c_str());
     if (result != 0) {
         std::cerr << "执行命令失败" << std::endl;
